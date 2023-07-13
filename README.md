@@ -23,6 +23,7 @@ enterpolasyon ile dict PLOTLY_SCALES
 
 api limit, Unix or epoch time, api key
 
+- https://github.com/ehmatthes/sitka_irg_realtime
 - 17.3 yapılacak
 - https://www.gutenberg.org/ ile ilgili bir proje yapılacak.(sıralı 100'er 100'er
     gruplayarak en sık kelimeler gibi)
